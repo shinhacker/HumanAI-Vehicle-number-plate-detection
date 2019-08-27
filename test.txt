@@ -1,0 +1,12 @@
+data/obj/cars_009.jpg
+data/obj/cars_0019.jpg
+data/obj/cars_0029.jpg
+data/obj/cars_0039.jpg
+data/obj/cars_0049.jpg
+data/obj/cars_0059.jpg
+data/obj/cars_0069.jpg
+data/obj/cars_0079.jpg
+data/obj/cars_0089.jpg
+data/obj/cars_0099.jpg
+data/obj/cars_00109.jpg
+data/obj/cars_00119.jpg
